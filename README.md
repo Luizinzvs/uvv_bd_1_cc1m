@@ -7,6 +7,8 @@
 
 <p><b> MONITORIA: </b></p>
 
+<p><b> COLABORAÇÃO: PEDRO HENRIQUE ARAUJO, CALEBE CARIAS DEGENARIO </b></p>
+
 <p><b> uvv_bd_1_cc1m </b></p>
 
 <h5> Repositorio aonde vai conter as informações sobre o PSet de Banco de Dados. </h5>
